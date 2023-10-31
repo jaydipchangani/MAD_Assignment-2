@@ -1,4 +1,4 @@
-package com.example.mad_assignment_2
+package com.example.musicplayer
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -20,13 +20,6 @@ import androidx.core.app.ActivityCompat
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.musicplayer.AboutActivity
-import com.example.musicplayer.FeedbackActivity
-import com.example.musicplayer.Music
-import com.example.musicplayer.MusicAdapter
-import com.example.musicplayer.PlayerActivity
-import com.example.musicplayer.SettingsActivity
-import com.example.musicplayer.exitApp
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.navigation.NavigationView
 import java.io.File
