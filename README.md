@@ -9,3 +9,9 @@ Display the total number of songs in your music library.
 Browse and play music tracks.
 User-friendly navigation with a drawer layout.
 Customized scrollbar design for the music list.
+
+### Objectives
+
+Provide a user-friendly interface for users to manage and play their music collection.
+Enhance the browsing and navigation experience for music tracks.
+Customize the app's appearance and features based on user preferences.
